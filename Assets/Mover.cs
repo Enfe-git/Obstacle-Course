@@ -23,7 +23,7 @@ public class Mover : MonoBehaviour
         transform.Translate(xValue, 0, zValue);
     }
 
-    void PrintInstructions() 
+    void PrintInstructions()
     {
         Debug.Log("Welcome to the game!\nUse W S A D to move.");
     }

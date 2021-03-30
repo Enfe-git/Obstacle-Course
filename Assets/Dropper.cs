@@ -28,7 +28,6 @@ public class Dropper : MonoBehaviour
     {
         if(Time.time > waitTime) 
         {
-            Debug.Log("Enough time has passed");
             enableObstacle();
 
         }

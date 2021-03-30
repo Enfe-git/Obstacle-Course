@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hit
+  - Blocker1
+  - Blocker2
+  - Blocker3
+  - Button
   layers:
   - Default
   - TransparentFX
